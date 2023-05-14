@@ -1,0 +1,35 @@
+{
+  "name": "react-power-up",
+  "version": "1.0.0",
+  "description": "provide a customHooks and utility for develop your application faster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "react-hooks",
+    "isOnline",
+    "isOffline",
+    "react-state",
+    "check internet",
+    "check internet is available",
+    "check internet is not available",
+    "check user is online using javascript logic"
+  ],
+  "author": "Atul Bansal",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamatulbansal/react-power-up.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamatulbansal/react-power-up/issues"
+  },
+  "homepage": "https://github.com/iamatulbansal/react-power-up#readme"
+}
